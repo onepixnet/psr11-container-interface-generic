@@ -1,0 +1,13 @@
+{
+    "name": "onepix/psr11-container-interface-generic",
+    "description": "A generic, type-safe container interface (PSR-compatible) with support for retrieving items of a specified type",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "static analysis",
+        "phpstan",
+        "psalm"
+    ],
+    "homepage": "https://github.com/onepixnet/psr11-container-interface-generic",
+    "minimum-stability": "stable"
+}
